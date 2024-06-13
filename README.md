@@ -15,6 +15,6 @@
 2. git config --global user.email mani@mail.com
 3. проверка настроек git config --list, git config user.name, git config user.email
 ## Git основы
-1. проверить состояние файлов git status
-2.  слежение за новым файлом git add README.md
-3. 
+1. проверить состояние файлов git status, git status -s 
+2. слежение за новым файлом git add README.md
+3. git commit -m ""
